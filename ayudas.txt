@@ -1,0 +1,8 @@
+documentar la aplicacion y poner todo el codigo y comentarios
+****************
+se instala nodemon para evitar para el sitio y reiniciar
+la opcion -g es global, para todos los proyectos.
+$npm install -g nodemon
+
+*********
+
